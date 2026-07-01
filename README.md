@@ -1,7 +1,9 @@
 # The Source and the Stream
 
 > A philosophical framework exploring individuality, emergence, and the creation of genuinely new reality.
+## Conceptual Overview
 
+![The Source and Stream Diagram](images/source-and-stream-diagram-v0.1.png)
 ---
 
 ## Overview
