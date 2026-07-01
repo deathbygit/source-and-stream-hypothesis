@@ -21,17 +21,17 @@ This repository documents the current development of that idea.
 ### 1. One-Page Summary
 A quick introduction to the central concept.
 
-📄 `docs/Source_and_Stream_ONE_PAGE.docx`
+📄`docs/Source_and_Stream_One_Page_v0.1.pdf`
 
 ### 2. Short Version
 An expanded explanation of the framework and its core arguments.
 
-📄 `docs/Source_and_Stream_SHORT.docx`
+📄  `docs/Source_and_Stream_Short_v0.1.pdf`
 
 ### 3. Full Theory
 The complete manuscript.
 
-📄 `docs/Source_and_Stream_FULL.docx`
+`docs/Source_and_Stream_Full_v0.1.pdf`
 
 ---
 
