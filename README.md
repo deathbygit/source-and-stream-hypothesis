@@ -2,10 +2,8 @@
 
 > A philosophical framework exploring individuality, emergence, and the creation of genuinely new reality.
 ## Conceptual Overview
-## Conceptual Overview
 
-![The Source and Stream Diagram](images/source-and-stream-diagram-v0.1.png)
-
+<img src="images/source-and-stream-diagram-v0.1.png" alt="The Source and Stream Diagram" width="900">
 
 ## Overview
 
